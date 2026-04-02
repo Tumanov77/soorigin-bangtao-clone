@@ -1,0 +1,14 @@
+{
+  "name": "soorigin-bangtao-clone",
+  "version": "1.0.0",
+  "description": "SO Origin Bangtao landing page clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node download.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
